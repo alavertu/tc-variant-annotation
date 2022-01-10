@@ -1,5 +1,5 @@
 # Variant Annotation Technical Challenge
-# Original Author: Reece Hart @ MyOme
+### Original Author: Reece Hart @ MyOme
 
 ## Introduction
 
