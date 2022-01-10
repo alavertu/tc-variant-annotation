@@ -59,7 +59,7 @@ considerations.  That's okay!
   this repo.  Please include the full output, errors, warnings and
   all.  The variants.txt is exactly as intended.
 
-* Create a PR for your branch. Invite me (github user `reece`) to
+* Create a PR for your branch. Invite me (github user `alavertu`) to
   review it. Thanks!
 
 
