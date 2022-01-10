@@ -1,4 +1,5 @@
 # Variant Annotation Technical Challenge
+# Original Author: Reece Hart @ MyOme
 
 ## Introduction
 
@@ -40,7 +41,7 @@ considerations.  That's okay!
 
 ## Take-home challenge
 
-* Go to https://github.com/reece/tc-variant-annotation and click "Use
+* Go to https://github.com/alavertu/tc-variant-annotation and click "Use
   this template".  Please make the repo private (for your benefit).
 
 * Create a new branch for your work.
