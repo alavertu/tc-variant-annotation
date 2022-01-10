@@ -144,5 +144,3 @@ http (not https) for now.** The response is also in
   ]
   ```
 
-
-- Reece Hart, 2021
