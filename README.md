@@ -44,7 +44,7 @@ Your code should be executed with  a command line like `annotate-variants <varia
 
 ## Take-home challenge
 
-* You will be invited to <https://github.com/reece/tc-variant-annotation/>.  This is a template repository.  Make a new repo under your own username using this repo as a template.
+* You will be invited to <https://github.com/alavertu/tc-variant-annotation/>.  This is a template repository.  Make a new repo under your own username using this repo as a template.
 * Invite me as a collaborator. 
 * Create a new branch for your work.
 * Write a Python package that implements the functionality discussed above. Restructure the repo consistent with Python coding conventions.
@@ -54,7 +54,7 @@ Your code should be executed with  a command line like `annotate-variants <varia
 * Write tests using pytest. Your tests do not need to be exhaustive.
 * Use conventional Python code structure and create a package from which you can build a Python wheel.  You may restructure the repo files in any way you see fit.
 * Create a new file, `CHALLENGE-RESPONSE.md`, that describes how to set up your code, demonstrates the command line use, and provides any additional discussion or explanation that you think is appropriate.
-* Create a PR for your branch. Invite me (github user `reece`) to
+* Create a PR for your branch. Invite me (github user `alavertu`) to
   review it. Thanks!
 
 ## Questions
